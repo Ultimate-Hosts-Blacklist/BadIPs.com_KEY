@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/BadIPs.com_KEY/domains.list": {
-        "down": 49066,
+        "down": 49207,
         "invalid": 0,
-        "tested": 138458,
-        "up": 89392
+        "tested": 138706,
+        "up": 89499
     }
 }

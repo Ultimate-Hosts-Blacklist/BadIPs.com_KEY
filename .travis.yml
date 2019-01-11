@@ -1,10 +1,22 @@
 env:
   global:
-    - secure: YYmah+GbIPfPR2dv+hkaqj2mWxC9V+zaET/fvf+e0v2S1nUwOuOZpsqIoe65DUcqytxUgbgyfS4/Fa/zpOftYURQi52vS50hlJ8mj039HiM9sXgD/iVSkVBfUzxYsdkuVg71lPbkq3QwAtMsB6IDTrPXdoWu2TUKvEQRjYBf8vkbwA5DOEZI3F+8JWxp9iwg56/gnXM34/no+GLeHL1gtsS/K7O2UNZtXFlvj+KIr99xgqciO9lAWDL3iPcjT9NcADcPt0tD0Q7aPeIBF5kgFNPg4brBoA+Uo4EhAcdvsR6UR0cPjEkppfpNiUgBSCPGqSoG5hAx7Qc2EswSOdumF4a6FdpmfIZJ9Bk/OImOcKWHath3cR59BLEUixPiLfhokAzYr3iFnkJvH6zXLC+JSTGTyiSU/3WDvo1Z/YVwKk+Dnm31PIiNzFn6LAOJlh6OktS6pnJLkB0uta+U98ZvMvG8kgOYI4ffMXBJa/oksPOiEWRQzoTUu6Mp8N/prvHTykpg8a31NHDnjiXvdABGjor+BaSJZ+GZJDwmN5o1dWg5lekoVc1fh3SxcSGGyFfBmTo5NebhnbdT2BSXfdaRdX+IIAulpE1S0vMiLmgtGO/p5MgzUIwN4Rq+KpcJ+mL4v42+AX/V/hKDOuBJzH5aA9RCXayZHHa/Vbblq2NQd/4=
+    - secure: usr/lib/ruby/2.6.0/rubygems/dependency.rb:311:in `to_specs': Could not find 'faraday' (~> 0.9) among 134 total gem(s) (Gem::MissingSpecError)
+Checked in 'GEM_PATH=/home/funilrys/.gem/ruby/2.5.0:/usr/lib/ruby/gems/2.5.0:/home/funilrys/.gem', execute `gem env` for more information
+	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1449:in `block in activate_dependencies'
+	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1438:in `each'
+	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1438:in `activate_dependencies'
+	from /usr/lib/ruby/2.6.0/rubygems/specification.rb:1420:in `activate'
+	from /usr/lib/ruby/2.6.0/rubygems.rb:304:in `block in activate_bin_path'
+	from /usr/lib/ruby/2.6.0/rubygems.rb:303:in `synchronize'
+	from /usr/lib/ruby/2.6.0/rubygems.rb:303:in `activate_bin_path'
+	from /home/funilrys/.gem/ruby/2.5.0/bin/travis:23:in `<main>
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/BadIPs.com_KEY
     - GIT_BRANCH: master
+    - WHITELISTING_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/dev-center/whitelisting/whitelisting.py
+    - UPDATE_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/update.py
+    - ADMINISTATION_LOCATION: https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/repository-structure/master/administration.py
 
 dist: xenial
 sudo: required
@@ -27,10 +39,13 @@ addons:
 install:
   - pip3 install --upgrade pip
   - pip3 install requests
+  - wget "${WHITELISTING_LOCATION}" -o /dev/null -O whitelisting.py && chmod +x whitelisting.py
+  - if [[ ! -f .admin ]]; then wget "${UPDATE_LOCATION}" -o /dev/null -O update.py && chmod +x update.py; else echo "No need to download/update update.py."; fi
+  - if [[ ! -f .admin ]]; then wget "${ADMINISTATION_LOCATION}" -o /dev/null -O administration.py && chmod +x administration.py; else echo "No need to download/update administration.py."; fi
 
 script:
   - python3 ./update.py
 
 notifications:
-  on_success:   change
-  on_failure:   always
+  on_success: change
+  on_failure: always

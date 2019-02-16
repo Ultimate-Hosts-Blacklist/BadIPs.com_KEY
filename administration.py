@@ -105,8 +105,13 @@ def generate_extra_files():  # pylint: disable=too-many-branches
 
         if path.isfile(inactive):
             for element in Helpers.Regex(
-                Helpers.File(inactive).to_list(), r"^#"
+                Helpers.File(inactive).to_list(), r"^#|^$"
             ).not_matching_list():
+                print(
+                    "Checking eligibility of `{}` for introduction into `{}`...".format(
+                        element, Settings.volatile_list_file
+                    )
+                )
                 if (
                     element
                     and _is_special_pyfunceble(element)

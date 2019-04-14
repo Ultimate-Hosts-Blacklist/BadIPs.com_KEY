@@ -1,9 +1,9 @@
 {
     "arguments": [],
     "clean_original": "1",
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1555227678",
+    "last_test": "1555228773",
     "name": "BadIPs.com_KEY",
     "raw_link": "https://hosts.ubuntu101.co.za/badips.txt",
     "stable": "1"

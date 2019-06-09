@@ -3,7 +3,8 @@
     "days_until_next_test": 2,
     "end_datetime": "Sun Jun  9 16:30:50 2019",
     "end_epoch": 1560097850.857989,
-    "last_test": 1557523349,
+    "last_autosave_datetime": "Sun Jun  9 16:42:32 2019",
+    "last_autosave_epoch": 1560098552.328227,
     "name": "BadIPs.com_KEY",
     "raw_link": "https://hosts.ubuntu101.co.za/badips.txt"
 }

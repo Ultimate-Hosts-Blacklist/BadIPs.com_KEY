@@ -1,8 +1,8 @@
 {
     "currently_under_test": "1",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Jun  9 15:05:17 2019",
-    "end_epoch": 1560092717.619272,
+    "end_datetime": "Sun Jun  9 15:23:45 2019",
+    "end_epoch": 1560093825.592756,
     "last_test": 1557523349,
     "name": "BadIPs.com_KEY",
     "raw_link": "https://hosts.ubuntu101.co.za/badips.txt"

@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 42,
+        "builds": 43,
         "counter": {
-            "down": 101366,
+            "down": 101766,
             "invalid": 0,
-            "tested": 214734,
-            "up": 113368
+            "tested": 215617,
+            "up": 113851
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Sun Jun  9 16:30:50 2019",
     "end_epoch": 1560097850.857989,
-    "last_autosave_datetime": "Mon Jun 10 04:10:20 2019",
-    "last_autosave_epoch": 1560139820.393986,
+    "last_autosave_datetime": "Mon Jun 10 04:22:04 2019",
+    "last_autosave_epoch": 1560140524.303498,
     "name": "BadIPs.com_KEY",
     "raw_link": "https://hosts.ubuntu101.co.za/badips.txt"
 }

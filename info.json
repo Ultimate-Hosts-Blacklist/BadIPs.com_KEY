@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 129,
+        "builds": 130,
         "counter": {
-            "down": 84683,
+            "down": 85278,
             "invalid": 0,
-            "tested": 181296,
-            "up": 96613
+            "tested": 182543,
+            "up": 97265
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Thu Aug 15 13:51:55 2019",
     "end_epoch": 1565877115.583992,
-    "last_autosave_datetime": "Tue Aug 20 09:18:31 2019",
-    "last_autosave_epoch": 1566292711.013147,
+    "last_autosave_datetime": "Tue Aug 20 09:34:50 2019",
+    "last_autosave_epoch": 1566293690.855191,
     "name": "BadIPs.com_KEY",
     "previous_stats": {
         "builds": 398,

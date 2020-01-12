@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 400,
-        "counter": {
-            "down": 123123,
-            "invalid": 0,
-            "tested": 241804,
-            "up": 118681
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Dec 28 10:15:15 2019",
-    "end_epoch": 1577528115.914295,
+    "end_datetime": "Sun Jan 12 06:52:47 2020",
+    "end_epoch": 1578811967.072464,
     "last_autosave_datetime": "Sun Jan 12 06:11:39 2020",
     "last_autosave_epoch": 1578809499.444723,
     "name": "BadIPs.com_KEY",
     "previous_stats": {
-        "builds": 1247,
-        "clean.list": 118551,
+        "builds": 401,
+        "clean.list": 118714,
         "counter": {
-            "down": 123329,
+            "down": 123167,
             "invalid": 0,
-            "tested": 241880,
-            "up": 118551
+            "tested": 241881,
+            "up": 118714
         },
-        "domains.list": 241880,
-        "volatile.list": 118550,
-        "whitelisted.list": 118550
+        "domains.list": 241881,
+        "volatile.list": 118713,
+        "whitelisted.list": 118713
     },
     "raw_link": "https://hosts.ubuntu101.co.za/badips.txt",
     "start_datetime": "Sun Dec 29 22:34:07 2019",

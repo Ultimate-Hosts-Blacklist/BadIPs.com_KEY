@@ -3,13 +3,13 @@
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
     "hash": "4f8fb89e544943a89eebb50b5151d578c01972a384a524f8c09ffd2d",
-    "line_number": 10824,
+    "line_number": 10540,
     "output_dir": "/home/runner/work/BadIPs.com_KEY/BadIPs.com_KEY/output/domains.list",
     "previous_hash": null,
     "rel_source": "domains.list",
     "session_id": "228bc13b22516680d6e750dd",
-    "source": "/home/runner/work/BadIPs.com_KEY/BadIPs.com_KEY/domains.list",
-    "subject": "/home/runner/work/BadIPs.com_KEY/BadIPs.com_KEY/domains.list",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }

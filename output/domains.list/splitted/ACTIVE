@@ -683,7 +683,7 @@ Subject                                                                         
 101.187.29.155                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 101.187.6.23                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 101.187.72.88                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-101.190.20.251                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+101.190.20.251                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 101.200.121.19                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 101.200.122.213                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 101.200.123.160                                                                                      ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
@@ -709,3 +709,5 @@ Subject                                                                         
 101.200.208.208                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 101.200.215.37                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 101.200.218.134                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+101.200.40.145                                                                                       ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
+101.200.41.40                                                                                        ACTIVE      HTTP CODE  Unknown           500        AVAILABILITY 

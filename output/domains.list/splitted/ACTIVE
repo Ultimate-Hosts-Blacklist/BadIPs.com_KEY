@@ -974,16 +974,16 @@ Subject                                                                         
 103.210.140.5                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.210.236.101                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.210.238.172                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.210.30.111                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.210.30.111                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.210.44.155                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.212.120.170                                                                                      ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 103.212.223.146                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.212.223.42                                                                                       ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
-103.212.223.57                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-103.212.43.134                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.212.223.57                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.212.43.134                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.212.91.53                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.213.115.45                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.213.236.142                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.213.245.132                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.213.245.25                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.214.130.251                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.213.236.142                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.213.245.132                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.213.245.25                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.214.130.251                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

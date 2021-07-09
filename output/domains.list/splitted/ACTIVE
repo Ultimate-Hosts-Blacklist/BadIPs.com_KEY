@@ -1609,7 +1609,7 @@ Subject                                                                         
 103.8.29.70                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.8.40.124                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.80.27.15                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.81.134.194                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.81.134.194                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.81.168.19                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.82.241.206                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.84.132.11                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
@@ -1619,8 +1619,8 @@ Subject                                                                         
 103.85.104.28                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 103.85.104.29                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 103.85.229.16                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.85.229.193                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.85.229.193                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.85.25.7                                                                                          ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.85.61.50                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.85.64.88                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.85.64.89                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.85.64.89                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

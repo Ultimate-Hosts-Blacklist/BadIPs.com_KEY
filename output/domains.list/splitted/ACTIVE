@@ -1252,21 +1252,19 @@ Subject                                                                         
 103.253.124.142                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.253.145.236                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.253.146.113                                                                                      ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
-103.253.146.170                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.253.146.170                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.253.147.27                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.253.147.51                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.253.194.17                                                                                       ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 103.253.208.122                                                                                      ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 103.253.208.47                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 103.253.208.48                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 103.254.107.10                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.254.150.19                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.254.153.202                                                                                      ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 103.254.175.134                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.254.175.154                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.254.175.209                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.254.175.209                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.254.209.230                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.254.86.3                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.255.147.245                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.255.15.45                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.255.236.120                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-103.255.236.34                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

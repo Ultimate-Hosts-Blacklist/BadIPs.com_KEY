@@ -1155,13 +1155,13 @@ Subject                                                                         
 103.237.147.71                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.237.147.73                                                                                       ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 103.237.147.86                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.237.39.94                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-103.238.214.96                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.239.106.210                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.237.39.94                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.238.214.96                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.239.106.210                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.239.147.20                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.239.252.122                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-103.239.252.42                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.239.254.3                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.239.252.122                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.239.252.42                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.239.254.3                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 103.24.110.99                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 103.24.116.22                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-103.24.125.195                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.24.125.195                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

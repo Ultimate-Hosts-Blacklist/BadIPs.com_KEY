@@ -1623,4 +1623,7 @@ Subject                                                                         
 103.85.25.7                                                                                          ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 103.85.61.50                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 103.85.64.88                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-103.85.64.89                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+103.85.64.89                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+103.87.25.14                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.89.177.70                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+103.89.48.17                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

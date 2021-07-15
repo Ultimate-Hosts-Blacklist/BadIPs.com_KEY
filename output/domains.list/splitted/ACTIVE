@@ -6580,24 +6580,4 @@ Subject                                                                         
 112.105.253.118                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.105.52.145                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 112.105.76.178                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.0.232                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.1.125                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.1.251                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.100.116                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.100.156                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.100.210                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.134.241                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.195.173                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.195.174                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.32.32                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.35.163                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.6.208                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.6.248                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.104.82.52                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.104.99.185                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.105.149.161                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.105.210.7                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.105.220.79                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.105.253.118                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.105.52.145                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.105.76.178                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.112.15.86                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

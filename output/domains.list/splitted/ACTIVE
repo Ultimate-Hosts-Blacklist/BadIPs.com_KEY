@@ -6437,33 +6437,4 @@ Subject                                                                         
 111.64.207.217                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 111.64.40.35                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 111.67.14.111                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.67.17.36                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.67.192.241                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.194.2                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.194.9                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.196.112                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.197.167                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.198.201                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.67.30.152                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.67.31.155                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.67.71.61                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.68.101.109                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.102.15                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.104.82                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.116.199                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.120.130                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.120.58                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.126.42                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.126.50                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.68.17.181                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.68.21.72                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.24.178                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.68.97.36                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.68.97.56                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.97.59                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-111.68.99.250                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-111.7.177.239                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
-111.73.45.158                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.73.45.19                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.73.45.223                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-111.73.45.237                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+111.59.4.50                                                                                          ACTIVE      HTTP CODE  Unknown           502        AVAILABILITY 

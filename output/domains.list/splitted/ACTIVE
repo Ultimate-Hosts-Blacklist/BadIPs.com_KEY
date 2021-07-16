@@ -6893,31 +6893,31 @@ Subject                                                                         
 112.78.1.154                                                                                         ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 112.78.1.194                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 112.78.1.241                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-112.78.1.86                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.78.1.86                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.10.203                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.78.10.82                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.78.10.82                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.11.146                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.11.252                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.127.70                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.14.226                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.78.14.228                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+112.78.14.228                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 112.78.145.171                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.2.131                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.2.207                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.3.168                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.3.190                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-112.78.3.196                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.78.3.196                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.3.220                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.78.3.234                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+112.78.3.234                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 112.78.3.26                                                                                          ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 112.78.32.226                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.4.102                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.4.169                                                                                         ACTIVE      HTTP CODE  Unknown           500        AVAILABILITY 
 112.78.4.224                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-112.78.4.58                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.78.4.58                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.4.85                                                                                          ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 112.78.5.177                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 112.78.5.185                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-112.78.6.200                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-112.78.8.134                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+112.78.6.200                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+112.78.8.134                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 112.78.8.158                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

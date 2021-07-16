@@ -6937,7 +6937,7 @@ Subject                                                                         
 113.10.156.82                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 113.10.158.231                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 113.105.224.82                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-113.105.84.35                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+113.105.84.35                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 113.106.101.126                                                                                      ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 113.106.104.114                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 113.106.88.235                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

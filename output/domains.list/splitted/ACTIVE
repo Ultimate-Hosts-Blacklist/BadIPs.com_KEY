@@ -8798,18 +8798,14 @@ Subject                                                                         
 115.159.25.60                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 115.159.29.34                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 115.159.84.176                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-115.160.131.86                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-115.160.217.35                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+115.160.131.86                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+115.160.217.35                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.160.249.30                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-115.160.251.50                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+115.160.251.50                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.162.34.177                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.163.188.212                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.163.248.129                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.165.216.120                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 115.166.3.29                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 115.177.9.27                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-115.178.24.7                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-115.179.102.249                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-115.179.103.130                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-115.179.103.145                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-115.179.128.212                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+115.178.24.7                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

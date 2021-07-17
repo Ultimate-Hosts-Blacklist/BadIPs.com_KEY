@@ -8205,8 +8205,5 @@ Subject                                                                         
 114.251.73.211                                                                                       ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 114.26.0.202                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 114.26.10.51                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-114.26.112.17                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+114.26.112.17                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 114.26.179.74                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-114.26.186.167                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-114.26.219.208                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-114.26.52.122                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

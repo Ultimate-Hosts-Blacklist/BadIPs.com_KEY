@@ -9488,9 +9488,9 @@ Subject                                                                         
 116.15.47.219                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 116.15.84.156                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 116.193.152.122                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-116.193.162.203                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+116.193.162.203                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 116.193.72.2                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-116.193.77.184                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+116.193.77.184                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 116.196.108.204                                                                                      ACTIVE      HTTP CODE  Unknown           503        AVAILABILITY 
 116.196.108.252                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 116.196.115.205                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
@@ -9499,4 +9499,3 @@ Subject                                                                         
 116.196.123.58                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 116.196.124.229                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 116.196.79.160                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-116.196.81.43                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

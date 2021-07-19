@@ -9534,4 +9534,6 @@ Subject                                                                         
 116.213.70.188                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 116.213.79.220                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 116.213.92.246                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-116.214.81.25                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+116.214.81.25                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+116.228.114.206                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+116.228.12.138                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

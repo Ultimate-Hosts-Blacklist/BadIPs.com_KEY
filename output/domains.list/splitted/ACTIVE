@@ -10519,9 +10519,8 @@ Subject                                                                         
 117.96.238.115                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.96.240.161                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.96.246.94                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-117.96.253.5                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-117.98.213.196                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+117.96.253.5                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+117.98.213.196                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.99.169.35                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-117.99.187.80                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-118.101.246.242                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+117.99.187.80                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 118.101.27.127                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 

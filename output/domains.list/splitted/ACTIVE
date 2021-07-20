@@ -10270,10 +10270,8 @@ Subject                                                                         
 117.3.39.223                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 117.3.70.183                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 117.3.70.242                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-117.30.123.46                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-117.30.61.183                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-117.31.17.3                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-117.31.46.22                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-117.34.70.151                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-117.34.70.227                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+117.30.123.46                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+117.30.61.183                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+117.31.17.3                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+117.31.46.22                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.34.70.40                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

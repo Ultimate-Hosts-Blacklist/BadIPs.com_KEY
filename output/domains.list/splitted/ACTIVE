@@ -9913,7 +9913,6 @@ Subject                                                                         
 117.144.167.222                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 117.144.172.46                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.144.189.69                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-117.144.209.19                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-117.144.48.254                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+117.144.209.19                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+117.144.48.254                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 117.149.38.34                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
-117.158.202.179                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

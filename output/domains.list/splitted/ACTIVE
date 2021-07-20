@@ -9632,12 +9632,6 @@ Subject                                                                         
 116.62.199.35                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 116.62.225.230                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 116.62.46.209                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-116.62.66.35                                                                                         ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
-116.66.201.54                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+116.66.201.54                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 116.68.102.59                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 116.68.127.56                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-116.70.196.105                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-116.70.196.230                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-116.70.196.43                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-116.70.196.52                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-116.70.197.46                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

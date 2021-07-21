@@ -10981,16 +10981,16 @@ Subject                                                                         
 118.69.18.225                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 118.69.182.20                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 118.69.191.79                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-118.69.194.68                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+118.69.194.68                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 118.69.195.34                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-118.69.204.211                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+118.69.204.211                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 118.69.224.13                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-118.69.224.224                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-118.69.225.86                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-118.69.244.124                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+118.69.224.224                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+118.69.225.86                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+118.69.244.124                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 118.69.35.126                                                                                        ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 118.69.37.9                                                                                          ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
-118.69.40.250                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+118.69.40.250                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 118.69.61.6                                                                                          ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 118.69.61.69                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 118.69.63.0                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 

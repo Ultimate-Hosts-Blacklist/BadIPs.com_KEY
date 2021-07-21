@@ -11185,13 +11185,13 @@ Subject                                                                         
 119.225.32.38                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.226.153.22                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.226.232.174                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-119.226.77.134                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.228.198.196                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.228.228.223                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.226.77.134                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.228.198.196                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.228.228.223                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.228.39.238                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.228.79.126                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.229.121.85                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.229.140.210                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.228.79.126                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.229.121.85                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.229.140.210                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.229.71.248                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.23.109.196                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 119.23.12.170                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

@@ -11684,8 +11684,7 @@ Subject                                                                         
 121.127.217.143                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.127.6.34                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.128.161.144                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-121.13.84.23                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+121.13.84.23                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.130.195.13                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.131.164.62                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.132.127.245                                                                                      ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
-121.134.204.54                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

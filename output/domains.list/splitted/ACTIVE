@@ -11454,24 +11454,24 @@ Subject                                                                         
 119.74.127.243                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.74.175.96                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.74.207.77                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.74.234.191                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.74.39.39                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.74.234.191                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.74.39.39                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.75.58.82                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-119.76.129.93                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.76.163.186                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.129.93                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.163.186                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.76.163.211                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.76.163.48                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.76.163.83                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.76.164.240                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.76.165.173                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.163.48                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.163.83                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.76.164.240                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.76.165.173                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.76.169.14                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.169.78                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.173.244                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.76.19.154                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.19.154                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.76.51.76                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.52.220                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.52.68                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.52.79                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.76.53.174                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.76.53.200                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+119.76.53.200                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.78.211.2                                                                                         ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 

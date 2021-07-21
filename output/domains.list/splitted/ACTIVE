@@ -11699,4 +11699,5 @@ Subject                                                                         
 121.142.146.167                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.148.151.227                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.148.151.230                                                                                      ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
-121.15.252.110                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.15.252.110                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+121.156.66.115                                                                                       ACTIVE      HTTP CODE  Unknown           500        AVAILABILITY 

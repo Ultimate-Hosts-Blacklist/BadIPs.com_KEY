@@ -11161,8 +11161,8 @@ Subject                                                                         
 119.160.199.106                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 119.167.153.189                                                                                      ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 119.17.144.152                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.17.153.7                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.17.153.7                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.17.253.150                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-119.170.18.41                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.170.18.41                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.171.141.108                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.172.53.142                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

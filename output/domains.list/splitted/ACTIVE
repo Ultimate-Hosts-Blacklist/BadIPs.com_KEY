@@ -11176,10 +11176,12 @@ Subject                                                                         
 119.2.116.105                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.2.116.189                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.2.116.99                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-119.2.47.70                                                                                          ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.2.47.70                                                                                          ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.2.8.82                                                                                           ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 119.201.214.130                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 119.205.215.203                                                                                      ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
 119.205.215.206                                                                                      ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
+119.205.220.227                                                                                      ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 119.224.64.253                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 119.225.32.38                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+119.226.153.22                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

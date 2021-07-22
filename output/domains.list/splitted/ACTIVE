@@ -12009,11 +12009,10 @@ Subject                                                                         
 121.43.184.84                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.43.185.180                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.43.35.181                                                                                        ACTIVE      HTTP CODE  Unknown           403        AVAILABILITY 
-121.5.23.165                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-121.52.146.137                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-121.52.146.172                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-121.52.147.3                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-121.52.150.53                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+121.52.146.137                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.52.146.172                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.52.147.3                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.52.150.53                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.52.150.54                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.52.152.25                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 121.52.153.178                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

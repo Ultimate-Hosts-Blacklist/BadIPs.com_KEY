@@ -12429,7 +12429,7 @@ Subject                                                                         
 122.154.235.21                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.12.126                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 122.155.128.138                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-122.155.16.155                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+122.155.16.155                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 122.155.167.124                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.168.168                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 122.155.17.74                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
@@ -12439,7 +12439,7 @@ Subject                                                                         
 122.155.202.169                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.202.233                                                                                      ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 122.155.210.19                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-122.155.7.252                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+122.155.7.252                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 122.155.80.110                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.87.110                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 122.156.44.223                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 

@@ -12437,9 +12437,9 @@ Subject                                                                         
 122.155.18.79                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.180.90                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 122.155.202.169                                                                                      ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-122.155.202.233                                                                                      ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
+122.155.204.188                                                                                      ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 122.155.210.19                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-122.155.7.252                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+122.155.7.252                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 122.155.80.110                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 122.155.87.110                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
 122.156.44.223                                                                                       ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 

@@ -11941,17 +11941,18 @@ Subject                                                                         
 121.32.127.215                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.32.198.117                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.33.238.218                                                                                       ACTIVE      HTTP CODE  Unknown           502        AVAILABILITY 
-121.35.16.72                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.35.16.72                                                                                         ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 121.35.18.63                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-121.35.209.94                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.35.209.94                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 121.35.224.118                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.35.226.212                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.35.226.96                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 121.35.227.166                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-121.35.227.174                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+121.35.227.174                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.35.244.114                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+121.35.245.98                                                                                        ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 121.35.36.160                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-121.35.59.244                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+121.35.59.244                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 121.35.80.27                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.37.40.100                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 121.40.102.199                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
@@ -11972,3 +11973,5 @@ Subject                                                                         
 121.40.18.72                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.40.180.26                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 121.40.181.124                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
+121.40.204.59                                                                                        ACTIVE      HTTP CODE  Unknown           302        AVAILABILITY 
+121.40.219.203                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 

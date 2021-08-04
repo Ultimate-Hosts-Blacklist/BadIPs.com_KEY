@@ -1019,7 +1019,6 @@
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
-        "dnsiskinky.com",
         "doesntexist.com",
         "dontexist.com",
         "doomdns.com",
@@ -2871,7 +2870,6 @@
         "echizen.fukui.jp",
         "ed.jp",
         "edogawa.tokyo.jp",
-        "edu.kp",
         "ehime.jp",
         "eiheiji.fukui.jp",
         "embetsu.hokkaido.jp",
@@ -4621,6 +4619,7 @@
     ],
     "kp": [
         "com.kp",
+        "edu.kp",
         "gov.kp",
         "org.kp",
         "rep.kp",
@@ -6813,6 +6812,7 @@
         "org.nr"
     ],
     "nu": [
+        "dnsiskinky.com",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",

@@ -25066,14 +25066,14 @@ Subject                                                                         
 164.151.130.210                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 164.151.136.188                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.160.35.31                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-164.160.40.68                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+164.160.40.68                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.160.40.69                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.160.5.54                                                                                         ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 164.163.24.12                                                                                        ACTIVE      HTTP CODE  Unknown           301        AVAILABILITY 
 164.163.99.10                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-164.177.113.231                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-164.177.121.36                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
-164.177.154.213                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+164.177.113.231                                                                                      ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+164.177.121.36                                                                                       ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+164.177.154.213                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.177.158.198                                                                                      ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.177.31.53                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.177.6.153                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
@@ -25081,11 +25081,11 @@ Subject                                                                         
 164.215.37.214                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 164.215.39.239                                                                                       ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 164.215.71.108                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-164.39.10.153                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
+164.39.10.153                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 164.39.135.135                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 164.39.137.104                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 164.39.137.197                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 164.39.137.211                                                                                       ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
 164.39.138.31                                                                                        ACTIVE      HTTP CODE  Unknown           200        AVAILABILITY 
-164.39.20.172                                                                                        ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
+164.39.20.172                                                                                        ACTIVE      NETINFO    Unknown           Unknown    AVAILABILITY 
 164.39.77.34                                                                                         ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 

@@ -992,6 +992,7 @@
         "cechire.com",
         "ciscofreak.com",
         "clicketcloud.com",
+        "clickrising.net",
         "cloudcontrolapp.com",
         "cloudcontrolled.com",
         "cn.com",
@@ -5644,7 +5645,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
         "cloudfront.net",
@@ -5849,7 +5849,6 @@
         "web.ni"
     ],
     "nl": [
-        "amsw.nl",
         "blogspot.nl",
         "cistron.nl",
         "co.nl",
@@ -5857,8 +5856,7 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
-        "transurl.nl",
-        "virtueeldomein.nl"
+        "transurl.nl"
     ],
     "no": [
         "aa.no",
@@ -6805,7 +6803,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "hopto.org",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -6927,6 +6924,7 @@
         "homeftp.org",
         "homelinux.org",
         "homeunix.org",
+        "hopto.org",
         "hr.eu.org",
         "httpbin.org",
         "hu.eu.org",

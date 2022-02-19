@@ -1021,6 +1021,8 @@
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
         "digitaloceanspaces.com",
+        "discordsays.com",
+        "discordsez.com",
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
@@ -6520,6 +6522,7 @@
         "sørum.no",
         "tana.no",
         "tananger.no",
+        "ternopil.ua",
         "time.no",
         "tingvoll.no",
         "tinn.no",
@@ -6658,7 +6661,6 @@
         "xn--hpmir-xqa.no",
         "xn--hyanger-q1a.no",
         "xn--hylandet-54a.no",
-        "xn--indery-fya.no",
         "xn--jlster-bya.no",
         "xn--jrpeland-54a.no",
         "xn--karmy-yua.no",
@@ -7064,7 +7066,8 @@
         "magnet.page",
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "translated.page"
     ],
     "party": [
         "ybo.party"
@@ -7539,6 +7542,7 @@
         "code.run",
         "development.run",
         "hs.run",
+        "onporter.run",
         "ravendb.run",
         "repl.run",
         "servers.run"

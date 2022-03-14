@@ -1564,7 +1564,6 @@
         "leitungsen.de",
         "lima-city.de",
         "logoip.de",
-        "lovepop.jp",
         "mein-iserv.de",
         "mein-vigor.de",
         "my-gateway.de",
@@ -1681,6 +1680,9 @@
     ],
     "edu": [
         "git-pages.rit.edu"
+    ],
+    "education": [
+        "co.education"
     ],
     "ee": [
         "aip.ee",
@@ -3554,6 +3556,7 @@
         "littlestar.jp",
         "lolitapunk.jp",
         "lomo.jp",
+        "lovepop.jp",
         "lovesick.jp",
         "machida.tokyo.jp",
         "maebashi.gunma.jp",
@@ -6921,7 +6924,6 @@
         "org.nr"
     ],
     "nu": [
-        "co.education",
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",

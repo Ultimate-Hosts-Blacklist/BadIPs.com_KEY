@@ -1034,7 +1034,6 @@
         "codespot.com",
         "compute-1.amazonaws.com",
         "compute.amazonaws.com",
-        "compute.estate",
         "customer-oci.com",
         "customer.mythic-beasts.com",
         "damnserver.com",
@@ -1751,6 +1750,9 @@
         "myspreadshop.es",
         "nom.es",
         "org.es"
+    ],
+    "estate": [
+        "compute.estate"
     ],
     "et": [
         "biz.et",

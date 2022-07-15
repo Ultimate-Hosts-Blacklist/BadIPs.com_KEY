@@ -5304,7 +5304,6 @@
         "durham.museum",
         "eastafrica.museum",
         "eastcoast.museum",
-        "edu.mz",
         "education.museum",
         "educational.museum",
         "egyptian.museum",
@@ -5743,6 +5742,7 @@
         "ac.mz",
         "adv.mz",
         "co.mz",
+        "edu.mz",
         "gov.mz",
         "mil.mz",
         "net.mz",
@@ -7912,7 +7912,6 @@
         "sch.ss"
     ],
     "st": [
-        "cc.md.us",
         "co.st",
         "com.st",
         "consulado.st",

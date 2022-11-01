@@ -1747,7 +1747,8 @@
         "tm.dz"
     ],
     "earth": [
-        "bzz.dapps.earth"
+        "bzz.dapps.earth",
+        "dapps.earth"
     ],
     "ec": [
         "base.ec",
@@ -2568,7 +2569,6 @@
         "is.it",
         "isernia.it",
         "jc.neen.it",
-        "kr.it",
         "la-spezia.it",
         "laquila.it",
         "laspezia.it",
@@ -6081,6 +6081,7 @@
         "in.ni",
         "info.ni",
         "int.ni",
+        "kr.it",
         "mil.ni",
         "net.ni",
         "nom.ni",
@@ -7125,7 +7126,6 @@
         "couchpotatofries.org",
         "cy.eu.org",
         "cz.eu.org",
-        "dapps.earth",
         "ddnss.org",
         "de.eu.org",
         "diskstation.org",

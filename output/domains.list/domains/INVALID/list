@@ -7,3 +7,6 @@
 18
 185.128.4131.6.220.31
 78.23.239.85.50
+'vendor/autoload.php'
+(include_path='.:/usr/local/lib/php')
+/>

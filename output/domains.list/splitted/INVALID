@@ -9,3 +9,6 @@ Subject                                                                         
 18                                                                                                   INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
 185.128.4131.6.220.31                                                                                INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
 78.23.239.85.50                                                                                      INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
+'vendor/autoload.php'                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+(include_path='.:/usr/local/lib/php')                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/>                                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

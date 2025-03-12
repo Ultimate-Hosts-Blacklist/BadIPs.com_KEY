@@ -5649,6 +5649,7 @@
     ],
     "kr": [
         "ac.kr",
+        "ai.kr",
         "busan.kr",
         "chungbuk.kr",
         "chungnam.kr",
@@ -5664,10 +5665,13 @@
         "gyeongnam.kr",
         "hs.kr",
         "incheon.kr",
+        "io.kr",
+        "it.kr",
         "jeju.kr",
         "jeonbuk.kr",
         "jeonnam.kr",
         "kg.kr",
+        "me.kr",
         "mil.kr",
         "ms.kr",
         "ne.kr",
@@ -6916,7 +6920,6 @@
         "smøla.no",
         "snaase.no",
         "snasa.no",
-        "snillfjord.no",
         "snoasa.no",
         "snåase.no",
         "snåsa.no",
@@ -9064,7 +9067,8 @@
         "gov.ws",
         "mypets.ws",
         "net.ws",
-        "org.ws"
+        "org.ws",
+        "snillfjord.no"
     ],
     "xyz": [
         "botdash.xyz",

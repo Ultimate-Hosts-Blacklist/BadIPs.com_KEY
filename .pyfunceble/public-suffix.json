@@ -998,7 +998,6 @@
         "nodes.k8s.fr-par.scw.cloud",
         "nodes.k8s.nl-ams.scw.cloud",
         "nodes.k8s.pl-waw.scw.cloud",
-        "observablehq.cloud",
         "on-rancher.cloud",
         "oxa.cloud",
         "perspecta.cloud",
@@ -1030,7 +1029,6 @@
         "voorloper.cloud",
         "whm.fr-par.scw.cloud",
         "whm.nl-ams.scw.cloud",
-        "xn--mxtq1m.hk",
         "zap.cloud"
     ],
     "club": [
@@ -7770,6 +7768,7 @@
         "nom.pl",
         "nowaruda.pl",
         "nysa.pl",
+        "observablehq.cloud",
         "oia.gov.pl",
         "oirm.gov.pl",
         "oke.gov.pl",
